@@ -1,0 +1,273 @@
+.logo img {
+    max-width: 20%;
+    margin-left: 10px;
+}
+.nav-item a {
+    margin-right: 10px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-size: xx-small;
+}
+.dropdown-toggle small {
+    font-weight: bolder;
+    font-size: 10px; 
+}
+.container {
+    margin-top: 30px;
+    padding-left: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.heading {
+    margin-left: 30px;
+}
+.button {
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: grey;
+    border:none;
+    color: white;
+}
+.sponserd h4 {
+    margin-left: 175px;
+    margin-top: 30px;
+    font-family: 'courgette', cursive;
+}
+.understanding {
+    background-color: yellow;
+}
+
+/*-------------- */
+
+.top-stories {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    
+}
+
+.image {
+    max-width: 150%;
+  
+}
+.image-class img{
+    margin-left: 80px;
+}
+.image-classs img {
+    margin-top: 1px;
+    margin-left: 250px;
+}
+
+.headin-2 {
+    margin-left: 80px;
+    
+}
+.heading-3{
+    margin-left: 250px;
+    display: inline-table;
+}
+.heading-4{
+    margin-left: 10px;
+    margin-top: 20px;
+    
+}
+.heading-5{
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.heading-6{
+    margin-left: 345px;
+    margin-top: 20px;
+}
+
+/*--------------------*/
+
+.another img {
+    margin-top: 10px;
+}
+
+/*-----------------*/
+
+.con-flu-bg {
+    background-color: lavender;
+}
+.daily-prodcast {
+    margin-top: 40px;
+}
+.subscribe {
+    font-weight: 90px;
+}
+.today-explane img {
+    max-width: 60%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+.coll {
+    margin-top: 20px;
+}
+.today {
+    margin-top: 5px;
+    font-size: 40px;
+}
+.subscribes button{
+    margin-top: 5px;
+   background-color: yellow;
+   border:none;
+  font-size: 10px;
+}
+
+/*--------------------*/
+
+.heading-latest p {
+    margin-top: 5px;
+    font-size: 20px;
+}
+.nd-video
+{
+    margin-top: 20px;
+}
+.video {
+    background-color: yellow;
+    margin-bottom: 20px;
+}
+.vide-heading{
+    font-size: 12px;
+    margin-top: 10px;
+}
+.sub-heading p{
+    font-size: 10px;
+    
+}
+
+/*----------------------*/
+
+
+
+.count {
+    background-color: lavender;
+    margin-right: 12cm;
+    margin-left: 4.6cm;
+    margin-top: 20px;
+}
+.race-in-america {
+    margin-top: 40px;
+    margin-left: 30px;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.race {
+    margin-top: 60px;
+    margin-left: 200px;
+
+}
+.color img {
+  margin-left: 50px;
+  margin-top: 30px;
+}
+.heading-race {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.heading-racee {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+/*----------------------*/
+.another-row {
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.sp-img img {
+    max-width: 100%;
+}
+.sp-img p {
+    font-size: 10px;
+}
+
+
+/*----------------------*/
+
+.containerfooter {
+    background-color: yellow;
+    height: 10px;
+}
+.containerfooterlast {
+    background-color: gray;
+    height: 30px;
+    margin-top: 40px;
+}
+.containerfooterlast:hover {
+    background-color: black;
+
+}
+.containerfooterlast h5 {
+    text-align: center;
+    color: white;
+    
+}
+
+.footer-left img {
+    max-width: 16%;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+.footer{
+    /* background-color: black; */
+    display: flex;
+    flex-flow: row wrap;
+    padding: 50px;
+    color: #fff;
+    background-color: black;
+    
+  
+  }
+  .footerclass{
+    margin-right: 1.25em;
+    margin-bottom: 2em;
+  }
+  .footer ul{
+    list-style: none;
+    padding-left: 5px;
+  
+  }
+  .footer li{
+    line-height: 2em;
+  
+  }
+  .footer a{
+    text-decoration: none;
+  }
+  .footerright{
+    display: flex;
+    flex-flow: row wrap;
+    /* margin-left: 100px; */
+  }
+  .box a{
+    color: #999;
+  }
+  .footer .bottom{
+    text-align: center;
+    color: #999;
+    padding-top: 50px;
+  }
+  .footer-mid {
+    margin-left: 380px;
+    padding: 5px;
+  }
+  .box a{
+    color: white;
+  }
+  .bottom p{
+    color: #fff;
+  }
+
+
+  
+  
+  
+  
+  
+  
